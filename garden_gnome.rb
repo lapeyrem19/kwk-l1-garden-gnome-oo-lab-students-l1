@@ -14,13 +14,13 @@ class GardenGnome
 
   def age
     @age
-  end 
+  end
 
   def initialize (gluten_allergy)
       @gluten_allergy = gluten allergy
-    end 
+    end
 
-    def gluten_allergy 
+    def gluten_allergy
       @gluten_allergy
     end 
 
