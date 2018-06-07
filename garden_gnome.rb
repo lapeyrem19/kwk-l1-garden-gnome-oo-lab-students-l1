@@ -24,8 +24,8 @@ class GardenGnome
       @gluten_allergy
   end
   
-  def personality 
+  def personality
     @personality = "evil"
-  end 
+  end
 
 end
