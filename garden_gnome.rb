@@ -8,7 +8,7 @@ class GardenGnome
     @name
   end
 
-  def (age)
+  def(age)
     @age = age
   end
 
@@ -16,7 +16,7 @@ class GardenGnome
     @age
   end
 
-  def (gluten_allergy)
+  def(gluten_allergy)
       @gluten_allergy = gluten allergy
   end
 
