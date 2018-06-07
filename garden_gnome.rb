@@ -1,21 +1,21 @@
-class GardenGnome 
-  
+class GardenGnome
+
   def initialize(name)
     @name = name
-  end 
+  end
 
-  def name 
-    @name 
-  end 
+  def name
+    @name
+  end
 
   def initialize(age)
     @age = age
+  end
+
+  def age
+    @age
   end 
 
-  def age 
-    @age 
-  end 
 
 
-  
-end 
+end
